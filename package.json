@@ -1,0 +1,8 @@
+{
+  "name": "kbo-stadium-social-mvp",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A small 3D multiplayer stadium social-game starter",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"express": "^4.21.2", "socket.io": "^4.8.1"}
+}
